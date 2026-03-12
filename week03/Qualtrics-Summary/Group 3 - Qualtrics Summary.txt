@@ -1,0 +1,67 @@
+﻿Duolingo Survey Responses
+
+
+Question 1)
+
+
+The first question tasked the users to navigate to the new course button and select a new language lesson. 
+
+
+The users were then asked how easy it was for them to navigate to and complete the task assigned.
+
+
+Out of the responses received the vast majority of users outlined that it was very easy to start a new language course and only one user determined that it was neither easy nor difficult.
+
+
+Question 5)
+
+
+This question asked the users if the Icons that navigate to the different tabs on the app were easily identifiable. They were asked if they knew what tabs the icons navigated to. 
+
+
+Out of the responses received once again the vast majority determined that the icons were easily identifiable. 
+
+
+A few responses outlined that it was difficult to determine the icons and which tabs they navigate to. 
+
+
+
+
+Question 11)
+
+
+For the question asking about how the visual design of the app could be improved, most answers mentioned Duolingo’s colours, icons/features difficulty and some design choices.
+Example responses about colour: “yes, more in depth-colours”, “could have more colour schemes otherwise pretty good”, “too colourful”
+Responses about features and design choices: “too many features might distract users”, “icons for different menus can be more clear”, “Declutter home page, remove unnecessary features”.
+
+
+Question 9)
+This question asked users what type of phone they used to test the app. 86% of respondents used an iphone to test the app, with only one person using an android and one person using another unknown device. 
+
+
+Question 16) asks about the participants opinion on the accessibility of the app. With only 29% responding with a response of “Average”, 57% responding “Good” and 14% responding "Excellent”
+Further follow up in question 17) asks those who did not respond “Excellent” for recommendations concerning accessibility improvements. Responses to those included: 
+* Interface UI scalability of icons
+* Options for colour contrast control
+* Inclusion of language “versions” for the same language (They likely meant dialects?)
+* Inclusion of more “ancient” languages
+
+
+
+
+
+
+Question 10)
+Overall, 83% of participants said they would recommend Duolingo to a friend who wants to learn a new language, while 17% said they would not, suggesting generally positive user satisfaction. The negative feedback indicated that some users prefer alternative language learning methods.
+
+
+Question 10) and 19)
+The final two questions ask if the participant would recommend the app to others, 86% of respondents responded that they would, the one respondent that said they would not stated that there are better methods for language learning.
+
+
+
+
+
+
+Key Insights:
+Overall, the survey results show that Duolingo provides a strong user experience in terms of usability and visual design, but improvements could be made in navigation clarity and accessibility features to enhance the experience for a wider range of users.
